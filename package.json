@@ -1,0 +1,9 @@
+{
+  "name": "context-finder",
+  "type": "module",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "express": "^4.18.0",
+    "node-fetch": "^3.3.0"
+  }
+}
